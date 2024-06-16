@@ -8259,6 +8259,7 @@ dns:
   nameserver-policy:
     "geosite:cn,private":
       - 223.5.5.5
+      - 223.6.6.6
       - 114.114.114.114
       - https://dns.alidns.com/dns-query#h3=true
 
